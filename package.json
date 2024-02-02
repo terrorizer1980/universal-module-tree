@@ -19,6 +19,6 @@
   "dependencies": {
     "@yarnpkg/lockfile": "^1.1.0",
     "debug": "^4.1.1",
-    "read-package-tree": "^5.2.1"
+    "read-package-tree": "^5.3.1"
   }
 }
